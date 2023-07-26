@@ -234,3 +234,38 @@ font-weight: 500;
     bottom: 300px;
 
 }
+.Rectangle-22{
+padding-left: 900px;
+border-radius: 10px;
+width: 500px;
+height: 500px;
+position: relative;
+bottom: 1300px;
+}
+.Rectangle-23{
+    padding-left: 700px;
+    position: relative;
+    bottom: 1600px;
+}
+.Rectangle-24{
+    color: #0B0223;
+    font-size: 50px;
+    font-weight: 700;
+    width: 350px;
+    height: 180px;
+    
+}
+.Rectangle-25{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400px;
+    width: 330px;
+}
+.Rectangle-26{
+    padding-left: 200px;
+    position: relative;
+    bottom: 900px;
+}
+.span-20{
+    color: #FF42A5;
+}
