@@ -128,3 +128,50 @@ flex-shrink: 0;
 height: 700px;
 
 }
+.gamer-2{
+    color: #8758F1;
+    text-align: right;
+font-size: 48px;
+font-weight: 700;
+padding-right: 100px;
+}
+.gamer-3{
+    color: #534C64;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 400;
+    width: 450px;
+    padding-left: 1000px;
+    padding-bottom: 50px;
+}
+.gamer-4{
+    color: #FFFFFF;
+    
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #FF42A5;
+    border-radius: 40px;
+    padding: 21px 40px;
+    margin-left: 1250px;
+
+}
+.gamer-5{
+    color: #534C64;
+    text-align: right;
+    font-size: 33px;
+    font-weight: 500;
+    width: 450px;
+    height: 60;
+    padding-left: 1000px;
+}
+.gamer-2,.gamer-3,.gamer-4,.gamer-5{
+    position: relative;
+    bottom: 950px;
+    gap: 20px;
+}
+.gamer-6{
+    position: relative;
+    bottom: 500px;
+    width: 868px;
+height: 489px;
+}
