@@ -317,6 +317,7 @@ bottom: 1700px;
 .Rectangle-32{
     display: flex;
     justify-content: center;
+    gap: 10px;
 }
 .shunonda-i-love-you{
     position: relative;
@@ -324,4 +325,47 @@ bottom: 1700px;
     font-size: 15px;
     font-weight: 600;
     color: #0B0223;
+}
+.footer-11{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.footer-12{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.footer-13{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.footer-14{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.footer-15{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 0px;
+}
+.valo-and-vasa{
+    background: #0B0223;
+    width: 1600px;
+    height: 700px;
+    position: relative;
+    bottom: 1800px; 
+}
+.shunonda-3{
+    color:#FFFFFF ;
+}
+.span-55{
+    color:#FF42A5;
 }
