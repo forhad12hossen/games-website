@@ -308,3 +308,20 @@ bottom: 1700px;
     position: relative;
     bottom: 2100px;
 }
+.Rectangle-31{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.Rectangle-32{
+    display: flex;
+    justify-content: center;
+}
+.shunonda-i-love-you{
+    position: relative;
+    bottom: 1900px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #0B0223;
+}
