@@ -3,7 +3,7 @@
    justify-content: space-around;
  
 }
-.div{
+.division{
     display: flex;
 }
 .div-1{
@@ -369,3 +369,134 @@ bottom: 1700px;
 .span-55{
     color:#FF42A5;
 }
+/* responsive or mobile media quaries */
+@media screen and (max-width: 576px){
+  .header,.Group-1,.vlobasa-1,.image-section,.responsive-39,.responsive-40,.shunonda-amar-valobasa,.shunonda-i-love-you,.valo-and-vasa{
+    flex-direction: column;
+  }
+  .header{
+    padding-left: 250px;
+    padding-top: 80px;
+  }
+  .div-1{
+    display: block;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+  }
+
+  .Group-1 {
+    width: 500px;
+    height: 400px;
+    padding-left: 100px;
+    padding-bottom: 150px;
+    justify-content: flex-end;
+    align-items: stretch;
+    margin-bottom: 1000px;
+    background-image: none;
+
+  }
+  .shunonda-1,.shunonda-2{
+    padding-left: 25%;
+    width: 50%;
+    height: 50%;
+    
+
+  }
+   .shunonda-2{
+    position: relative;
+    padding-top: 650px;
+  } 
+  .vlobasa-1{
+    background-image: none;
+  }
+  .gamer-6{
+    width: 600px;
+    height: 300px;
+    padding-left: 40px;
+    padding-bottom: 400px;
+  }
+  .gamer-2,.gamer-3,.gamer-5{
+    padding-left: 100px;
+    padding-right: 0px;
+    text-align:start;
+
+  }
+  .gamer-4{
+    margin-left: 100px;
+    
+  }
+  .image-section{
+    position: relative;
+    bottom: 600px;
+    margin-bottom: 100px;
+    padding-left: 3%;
+
+  }
+ .Rectangle-2{
+    width: 150%;
+    height: 100%;
+    font-size: 15px;
+ }
+ .Rectangle-1,.paragrap-1{
+    display: block;
+    padding-left: 130px;
+ }
+ .Rectangle-22{
+    padding-left: 40px;
+    margin-top: 400px;
+ }
+ .Rectangle-23{
+    padding-left: 0px;
+ }
+ 
+ .responsive-39{
+    position: relative;
+    bottom: 600px;
+    
+ }
+ .responsive-40{
+    position: relative;
+    bottom: 700px;
+ }
+ .responsive-41,.Rectangle-27{
+    width: 500px;
+    height: 330px;
+    padding-left: 0%;
+ }
+ .Rectangle-28{
+    padding-left: 300px;
+    margin-left: 0px;
+    width: 60%;
+    
+ }
+ .shunonda-love{
+    padding-left: 0px;
+ }
+.shunonda-amar-valobasa{
+    position: relative;
+    bottom: 500px;
+}
+.Rectangle-31{
+    width: 100px;
+    padding-left: 280px;
+    gap: 0px;
+    align-items: flex-end;
+}
+.Rectangle-32{
+    padding-left: 200px;
+}
+.valo-and-vasa{
+    width: 180%;
+    height: 100%;
+}
+.footer-12{
+    padding-right: 20px;
+}
+
+}
+
+    
+
+    
+
